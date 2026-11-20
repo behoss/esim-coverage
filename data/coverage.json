@@ -1,0 +1,7689 @@
+{
+ "name": "Travel eSIM coverage by country",
+ "updated": "2026-11-20",
+ "licence": "CC-BY-4.0",
+ "url": "https://behoss.github.io/esim-coverage/",
+ "countries": [
+  {
+   "iso2": "AF",
+   "country": "Afghanistan",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Roshan",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/afghanistan",
+   "regional_plans": []
+  },
+  {
+   "iso2": "AL",
+   "country": "Albania",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "One Albania",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/albania",
+   "regional_plans": [
+    {
+     "name": "Balkans",
+     "url": "https://esimology.com/esim/balkans"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "DZ",
+   "country": "Algeria",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Djezzy",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Mobilis",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Ooredoo",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/algeria",
+   "regional_plans": [
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "AD",
+   "country": "Andorra",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Mobiland",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/andorra",
+   "regional_plans": []
+  },
+  {
+   "iso2": "AO",
+   "country": "Angola",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "UNITEL",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/angola",
+   "regional_plans": []
+  },
+  {
+   "iso2": "AI",
+   "country": "Anguilla",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/anguilla",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "AG",
+   "country": "Antigua & Barbuda",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/antigua-and-barbuda",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "AR",
+   "country": "Argentina",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Movistar",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Personal",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/argentina",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    },
+    {
+     "name": "South America (6 countries)",
+     "url": "https://esimology.com/esim/south-america-6-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "AM",
+   "country": "Armenia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Beeline",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "MTS",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Vivacell",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/armenia",
+   "regional_plans": [
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    }
+   ]
+  },
+  {
+   "iso2": "AW",
+   "country": "Aruba",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "SETAR",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/aruba",
+   "regional_plans": []
+  },
+  {
+   "iso2": "AU",
+   "country": "Australia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Optus",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telstra",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/australia",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Australia & New Zealand",
+     "url": "https://esimology.com/esim/australia-and-new-zealand"
+    },
+    {
+     "name": "Australia, UK & US",
+     "url": "https://esimology.com/esim/australia-uk-and-us"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Oceania",
+     "url": "https://esimology.com/esim/oceania"
+    }
+   ]
+  },
+  {
+   "iso2": "AT",
+   "country": "Austria",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "3",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "A1.net",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "bob",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Magenta",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/austria",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "AZ",
+   "country": "Azerbaijan",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Azercell",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Bakcell",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/azerbaijan",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    }
+   ]
+  },
+  {
+   "iso2": "BS",
+   "country": "Bahamas",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "BTC",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/bahamas",
+   "regional_plans": []
+  },
+  {
+   "iso2": "BH",
+   "country": "Bahrain",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "STC",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Zain",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/bahrain",
+   "regional_plans": [
+    {
+     "name": "GCC Countries",
+     "url": "https://esimology.com/esim/gcc-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Gulf Region",
+     "url": "https://esimology.com/esim/gulf-region"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    }
+   ]
+  },
+  {
+   "iso2": "BD",
+   "country": "Bangladesh",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Banglalink",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Grameenphone",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Robi",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/bangladesh",
+   "regional_plans": [
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "South Asia",
+     "url": "https://esimology.com/esim/south-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "BB",
+   "country": "Barbados",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/barbados",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "BY",
+   "country": "Belarus",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "A1",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "life:)",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "MTS",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/belarus",
+   "regional_plans": []
+  },
+  {
+   "iso2": "BE",
+   "country": "Belgium",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Base",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Proximus",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/belgium",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "BZ",
+   "country": "Belize",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "DigiCell",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/belize",
+   "regional_plans": []
+  },
+  {
+   "iso2": "BJ",
+   "country": "Benin",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Celtiis",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/benin",
+   "regional_plans": []
+  },
+  {
+   "iso2": "BM",
+   "country": "Bermuda",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "One",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/bermuda",
+   "regional_plans": []
+  },
+  {
+   "iso2": "BT",
+   "country": "Bhutan",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "TashiCell",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/bhutan",
+   "regional_plans": [
+    {
+     "name": "South Asia",
+     "url": "https://esimology.com/esim/south-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "BO",
+   "country": "Bolivia",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Tigo",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "VIVA",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/bolivia",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "BA",
+   "country": "Bosnia & Herzegovina",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "BH Mobile",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "HT-ERONET",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/bosnia-and-herzegovina",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "BW",
+   "country": "Botswana",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "beMobile",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Mascom",
+     "network_types": [
+      "3G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/botswana",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "BR",
+   "country": "Brazil",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "TIM",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Vivo",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/brazil",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    },
+    {
+     "name": "South America (6 countries)",
+     "url": "https://esimology.com/esim/south-america-6-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "VG",
+   "country": "British Virgin Islands",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/british-virgin-islands",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "BN",
+   "country": "Brunei",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "DST",
+     "network_types": [
+      "3G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/brunei",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    }
+   ]
+  },
+  {
+   "iso2": "BG",
+   "country": "Bulgaria",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "A1",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Telenor",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Vivacom",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/bulgaria",
+   "regional_plans": [
+    {
+     "name": "Balkans",
+     "url": "https://esimology.com/esim/balkans"
+    },
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "BF",
+   "country": "Burkina Faso",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/burkina-faso",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    }
+   ]
+  },
+  {
+   "iso2": "KH",
+   "country": "Cambodia",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Cellcard",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Metfone",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/cambodia",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (7 countries)",
+     "url": "https://esimology.com/esim/asia-7-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "South East Asia",
+     "url": "https://esimology.com/esim/south-east-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "CM",
+   "country": "Cameroon",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "MTN Cameroon",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/cameroon",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CA",
+   "country": "Canada",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Bell",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Rogers Wireless",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "SaskTel",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telus",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Videotron",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/canada",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "North America",
+     "url": "https://esimology.com/esim/north-america"
+    },
+    {
+     "name": "USA & Canada",
+     "url": "https://esimology.com/esim/usa-and-canada"
+    }
+   ]
+  },
+  {
+   "iso2": "CV",
+   "country": "Cape Verde",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "CVMOVEL",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/cape-verde",
+   "regional_plans": []
+  },
+  {
+   "iso2": "BQ",
+   "country": "Caribbean Netherlands",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "SETAR",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "UTS Wireless Curacao",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/caribbean-netherlands",
+   "regional_plans": []
+  },
+  {
+   "iso2": "KY",
+   "country": "Cayman Islands",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/cayman-islands",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "CF",
+   "country": "Central African Republic",
+   "best_network": "3G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "3G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/central-african-republic",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "TD",
+   "country": "Chad",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/chad",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CL",
+   "country": "Chile",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "CLARO CL",
+     "network_types": [
+      "3G"
+     ]
+    },
+    {
+     "name": "movistar",
+     "network_types": [
+      "3G",
+      "5G"
+     ]
+    },
+    {
+     "name": "WOM",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/chile",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    },
+    {
+     "name": "South America (6 countries)",
+     "url": "https://esimology.com/esim/south-america-6-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CN",
+   "country": "China",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "China Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "China Telecom",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "China Unicom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/china",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "China & Hong Kong",
+     "url": "https://esimology.com/esim/china-and-hong-kong"
+    },
+    {
+     "name": "China, Hong Kong & Macau",
+     "url": "https://esimology.com/esim/china-hong-kong-and-macau"
+    },
+    {
+     "name": "China, Japan & South Korea",
+     "url": "https://esimology.com/esim/china-japan-and-south-korea"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CO",
+   "country": "Colombia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "movistar",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Tigo",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/colombia",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "CG",
+   "country": "Congo",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/congo",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CR",
+   "country": "Costa Rica",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "movistar",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/costa-rica",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "HR",
+   "country": "Croatia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "A1",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "T-Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Tele2",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/croatia",
+   "regional_plans": [
+    {
+     "name": "Balkans",
+     "url": "https://esimology.com/esim/balkans"
+    },
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CW",
+   "country": "Curaçao",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Chippie",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/curacao",
+   "regional_plans": []
+  },
+  {
+   "iso2": "CY",
+   "country": "Cyprus",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Epic",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "PrimeTel",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/cyprus",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CZ",
+   "country": "Czechia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "O2",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "T-Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/czechia",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CD",
+   "country": "DR Congo",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/dr-congo",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "DK",
+   "country": "Denmark",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "3",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "TDC",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telenor",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telia",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/denmark",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "DM",
+   "country": "Dominica",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/dominica",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "DO",
+   "country": "Dominican Republic",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Altice",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/dominican-republic",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "EC",
+   "country": "Ecuador",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "3G"
+     ]
+    },
+    {
+     "name": "Movistar",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/ecuador",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    },
+    {
+     "name": "South America (6 countries)",
+     "url": "https://esimology.com/esim/south-america-6-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "EG",
+   "country": "Egypt",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "e& Egypt",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/egypt",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    }
+   ]
+  },
+  {
+   "iso2": "SV",
+   "country": "El Salvador",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "movistar",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Tigo",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/el-salvador",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "EE",
+   "country": "Estonia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Elisa",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Tele2",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telia",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/estonia",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "SZ",
+   "country": "Eswatini",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Swazi Mobile",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Swazi MTN",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/eswatini",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "ET",
+   "country": "Ethiopia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Safaricom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/ethiopia",
+   "regional_plans": []
+  },
+  {
+   "iso2": "FO",
+   "country": "Faroe Islands",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Faroese Telecom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/faroe-islands",
+   "regional_plans": []
+  },
+  {
+   "iso2": "FJ",
+   "country": "Fiji",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/fiji",
+   "regional_plans": [
+    {
+     "name": "Oceania",
+     "url": "https://esimology.com/esim/oceania"
+    }
+   ]
+  },
+  {
+   "iso2": "FI",
+   "country": "Finland",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "DNA",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Elisa",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telia",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Telia / DNA",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/finland",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "FR",
+   "country": "France",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Bouygues",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Free Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "SFR",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/france",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "GF",
+   "country": "French Guiana",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/french-guiana",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "PF",
+   "country": "French Polynesia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Vini",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/french-polynesia",
+   "regional_plans": []
+  },
+  {
+   "iso2": "GA",
+   "country": "Gabon",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/gabon",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "GM",
+   "country": "Gambia",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Comium",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/gambia",
+   "regional_plans": []
+  },
+  {
+   "iso2": "GE",
+   "country": "Georgia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Beeline",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Geocell",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Magti",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/georgia",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    }
+   ]
+  },
+  {
+   "iso2": "DE",
+   "country": "Germany",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "E-Plus",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "O2",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telekom",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/germany",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "GH",
+   "country": "Ghana",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "AirtelTigo",
+     "network_types": [
+      "3G"
+     ]
+    },
+    {
+     "name": "MTN",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/ghana",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "GI",
+   "country": "Gibraltar",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "GibTel",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/gibraltar",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "GR",
+   "country": "Greece",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Cosmote",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Nova",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/greece",
+   "regional_plans": [
+    {
+     "name": "Balkans",
+     "url": "https://esimology.com/esim/balkans"
+    },
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "GL",
+   "country": "Greenland",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "TELE Greenland",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/greenland",
+   "regional_plans": []
+  },
+  {
+   "iso2": "GD",
+   "country": "Grenada",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/grenada",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "GP",
+   "country": "Guadeloupe",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "free",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/guadeloupe",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "GU",
+   "country": "Guam",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "GTA Wireless",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "IT&E Wireless",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/guam",
+   "regional_plans": [
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "GT",
+   "country": "Guatemala",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "movistar",
+     "network_types": [
+      "3G"
+     ]
+    },
+    {
+     "name": "Tigo",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/guatemala",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "GG",
+   "country": "Guernsey",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "JT",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Sure",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/guernsey",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    }
+   ]
+  },
+  {
+   "iso2": "GN",
+   "country": "Guinea",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/guinea",
+   "regional_plans": []
+  },
+  {
+   "iso2": "GW",
+   "country": "Guinea-Bissau",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "MTN Areeba",
+     "network_types": [
+      "3G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/guinea-bissau",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "GY",
+   "country": "Guyana",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/guyana",
+   "regional_plans": []
+  },
+  {
+   "iso2": "HT",
+   "country": "Haiti",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/haiti",
+   "regional_plans": []
+  },
+  {
+   "iso2": "HN",
+   "country": "Honduras",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Tigo",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/honduras",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "HK",
+   "country": "Hong Kong",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "3",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "csl",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "csl/1010",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "SmarTone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/hong-kong",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "China & Hong Kong",
+     "url": "https://esimology.com/esim/china-and-hong-kong"
+    },
+    {
+     "name": "China, Hong Kong & Macau",
+     "url": "https://esimology.com/esim/china-hong-kong-and-macau"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "HU",
+   "country": "Hungary",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "T-Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telenor Hungary",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/hungary",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "IS",
+   "country": "Iceland",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Nova",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Síminn",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/iceland",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "IN",
+   "country": "India",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "AirTel",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "IDEA",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Jio",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/india",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South Asia",
+     "url": "https://esimology.com/esim/south-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "ID",
+   "country": "Indonesia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "3",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Indosat",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telkomsel",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "XL",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/indonesia",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Asia (7 countries)",
+     "url": "https://esimology.com/esim/asia-7-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Singapore, Malaysia, Vietnam, Thailand & Indonesia",
+     "url": "https://esimology.com/esim/singapore-malaysia-vietnam-thailand-and-indonesia"
+    },
+    {
+     "name": "South East Asia",
+     "url": "https://esimology.com/esim/south-east-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "IQ",
+   "country": "Iraq",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Asia Cell",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Korek",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/iraq",
+   "regional_plans": [
+    {
+     "name": "Gulf Region",
+     "url": "https://esimology.com/esim/gulf-region"
+    },
+    {
+     "name": "Middle East (5 countries)",
+     "url": "https://esimology.com/esim/middle-east-5-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "IE",
+   "country": "Ireland",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "3",
+     "network_types": [
+      "3G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Eir",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/ireland",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Ireland & Slovenia",
+     "url": "https://esimology.com/esim/ireland-and-slovenia"
+    },
+    {
+     "name": "UK & Ireland",
+     "url": "https://esimology.com/esim/uk-and-ireland"
+    }
+   ]
+  },
+  {
+   "iso2": "IM",
+   "country": "Isle of Man",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Pronto GSM",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/isle-of-man",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    }
+   ]
+  },
+  {
+   "iso2": "IL",
+   "country": "Israel",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Cellcom",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Hot Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Partner",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Pelephone",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "PHI Networks",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/israel",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    },
+    {
+     "name": "Middle East (5 countries)",
+     "url": "https://esimology.com/esim/middle-east-5-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "IT",
+   "country": "Italy",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Iliad",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "TIM",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Wind",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/italy",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CI",
+   "country": "Ivory Coast",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/ivory-coast",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "JM",
+   "country": "Jamaica",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "C&W",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/jamaica",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "JP",
+   "country": "Japan",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "KDDI/au",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "NTT docomo",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Rakuten Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "SoftBank",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/japan",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "China, Japan & South Korea",
+     "url": "https://esimology.com/esim/china-japan-and-south-korea"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Japan & South Korea",
+     "url": "https://esimology.com/esim/japan-and-south-korea"
+    }
+   ]
+  },
+  {
+   "iso2": "JE",
+   "country": "Jersey",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "JT",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/jersey",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    }
+   ]
+  },
+  {
+   "iso2": "JO",
+   "country": "Jordan",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Umniah",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Zain",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/jordan",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    }
+   ]
+  },
+  {
+   "iso2": "KZ",
+   "country": "Kazakhstan",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Beeline",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Tele2.kz",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/kazakhstan",
+   "regional_plans": [
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Central Asia",
+     "url": "https://esimology.com/esim/central-asia"
+    },
+    {
+     "name": "Central Asia (4 countries)",
+     "url": "https://esimology.com/esim/central-asia-4-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "KE",
+   "country": "Kenya",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Safaricom",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/kenya",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "XK",
+   "country": "Kosovo",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "IPKO",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vala",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/kosovo",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "KW",
+   "country": "Kuwait",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Ooredoo",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "STC",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Zain",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/kuwait",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "GCC Countries",
+     "url": "https://esimology.com/esim/gcc-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Gulf Region",
+     "url": "https://esimology.com/esim/gulf-region"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    },
+    {
+     "name": "Middle East (5 countries)",
+     "url": "https://esimology.com/esim/middle-east-5-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "KG",
+   "country": "Kyrgyzstan",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Beeline",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/kyrgyzstan",
+   "regional_plans": [
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Central Asia",
+     "url": "https://esimology.com/esim/central-asia"
+    },
+    {
+     "name": "Central Asia (4 countries)",
+     "url": "https://esimology.com/esim/central-asia-4-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "LA",
+   "country": "Laos",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "ETL",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Lao Telecom",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Unitel",
+     "network_types": [
+      "3G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/laos",
+   "regional_plans": [
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "South East Asia",
+     "url": "https://esimology.com/esim/south-east-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "LV",
+   "country": "Latvia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Bite",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "LMT",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Tele2",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/latvia",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "LS",
+   "country": "Lesotho",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Vodacom",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/lesotho",
+   "regional_plans": []
+  },
+  {
+   "iso2": "LR",
+   "country": "Liberia",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Lonestar Cell MTN",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/liberia",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "LY",
+   "country": "Libya",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Madar",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/libya",
+   "regional_plans": []
+  },
+  {
+   "iso2": "LI",
+   "country": "Liechtenstein",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "7acht",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "FL1",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/liechtenstein",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "LT",
+   "country": "Lithuania",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "BITĖ",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Tele2",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telia",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/lithuania",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "LU",
+   "country": "Luxembourg",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "POST",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Tango",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/luxembourg",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "MO",
+   "country": "Macau",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "3",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "CTM",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/macau",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "China, Hong Kong & Macau",
+     "url": "https://esimology.com/esim/china-hong-kong-and-macau"
+    }
+   ]
+  },
+  {
+   "iso2": "MG",
+   "country": "Madagascar",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Telma",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/madagascar",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "MW",
+   "country": "Malawi",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/malawi",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "MY",
+   "country": "Malaysia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "CelcomDigi",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Maxis",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Tune Talk",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "U Mobile",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/malaysia",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Asia (7 countries)",
+     "url": "https://esimology.com/esim/asia-7-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Singapore & Malaysia",
+     "url": "https://esimology.com/esim/singapore-and-malaysia"
+    },
+    {
+     "name": "Singapore, Malaysia & Thailand",
+     "url": "https://esimology.com/esim/singapore-malaysia-and-thailand"
+    },
+    {
+     "name": "Singapore, Malaysia, Vietnam, Thailand & Indonesia",
+     "url": "https://esimology.com/esim/singapore-malaysia-vietnam-thailand-and-indonesia"
+    },
+    {
+     "name": "South East Asia",
+     "url": "https://esimology.com/esim/south-east-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "MV",
+   "country": "Maldives",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Dhiraagu",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/maldives",
+   "regional_plans": []
+  },
+  {
+   "iso2": "ML",
+   "country": "Mali",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Malitel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/mali",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "MT",
+   "country": "Malta",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "GO",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Melita",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/malta",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "MQ",
+   "country": "Martinique",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/martinique",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "MR",
+   "country": "Mauritania",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Mattel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/mauritania",
+   "regional_plans": []
+  },
+  {
+   "iso2": "MU",
+   "country": "Mauritius",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Emtel",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "my.t",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/mauritius",
+   "regional_plans": [
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "YT",
+   "country": "Mayotte",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/mayotte",
+   "regional_plans": []
+  },
+  {
+   "iso2": "MX",
+   "country": "Mexico",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Movistar",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Telcel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/mexico",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "North America",
+     "url": "https://esimology.com/esim/north-america"
+    }
+   ]
+  },
+  {
+   "iso2": "MD",
+   "country": "Moldova",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Unité",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/moldova",
+   "regional_plans": [
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "MC",
+   "country": "Monaco",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Monaco Telecom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/monaco",
+   "regional_plans": []
+  },
+  {
+   "iso2": "MN",
+   "country": "Mongolia",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Mobicom",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/mongolia",
+   "regional_plans": []
+  },
+  {
+   "iso2": "ME",
+   "country": "Montenegro",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "m:tel CG",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "T-Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telenor",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/montenegro",
+   "regional_plans": [
+    {
+     "name": "Balkans",
+     "url": "https://esimology.com/esim/balkans"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "MS",
+   "country": "Montserrat",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/montserrat",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "MA",
+   "country": "Morocco",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "IAM",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange Morocco",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/morocco",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    }
+   ]
+  },
+  {
+   "iso2": "MZ",
+   "country": "Mozambique",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/mozambique",
+   "regional_plans": []
+  },
+  {
+   "iso2": "NR",
+   "country": "Nauru",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/nauru",
+   "regional_plans": [
+    {
+     "name": "Oceania",
+     "url": "https://esimology.com/esim/oceania"
+    }
+   ]
+  },
+  {
+   "iso2": "NP",
+   "country": "Nepal",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Ncell",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "NT Mobile",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/nepal",
+   "regional_plans": [
+    {
+     "name": "South Asia",
+     "url": "https://esimology.com/esim/south-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "NL",
+   "country": "Netherlands",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "KPN",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telfort",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/netherlands",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "AN",
+   "country": "Netherlands Antilles",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Chippie",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": null,
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "NC",
+   "country": "New Caledonia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Mobilis",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/new-caledonia",
+   "regional_plans": []
+  },
+  {
+   "iso2": "NZ",
+   "country": "New Zealand",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "One NZ",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Spark",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/new-zealand",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Australia & New Zealand",
+     "url": "https://esimology.com/esim/australia-and-new-zealand"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Oceania",
+     "url": "https://esimology.com/esim/oceania"
+    }
+   ]
+  },
+  {
+   "iso2": "NI",
+   "country": "Nicaragua",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "movistar",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/nicaragua",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "NE",
+   "country": "Niger",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "3G",
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "3G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/niger",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "NG",
+   "country": "Nigeria",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Glo",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "MTN",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/nigeria",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "MK",
+   "country": "North Macedonia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Telekom.mk",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "vip",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/north-macedonia",
+   "regional_plans": [
+    {
+     "name": "Balkans",
+     "url": "https://esimology.com/esim/balkans"
+    },
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "NO",
+   "country": "Norway",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "ice",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Telenor",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telia",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/norway",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "OM",
+   "country": "Oman",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Omantel",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/oman",
+   "regional_plans": [
+    {
+     "name": "GCC Countries",
+     "url": "https://esimology.com/esim/gcc-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    }
+   ]
+  },
+  {
+   "iso2": "PK",
+   "country": "Pakistan",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Jazz",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Telenor",
+     "network_types": [
+      "3G"
+     ]
+    },
+    {
+     "name": "Zong",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/pakistan",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Central Asia",
+     "url": "https://esimology.com/esim/central-asia"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South Asia",
+     "url": "https://esimology.com/esim/south-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "PA",
+   "country": "Panama",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "movistar",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/panama",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "PG",
+   "country": "Papua New Guinea",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/papua-new-guinea",
+   "regional_plans": [
+    {
+     "name": "Oceania",
+     "url": "https://esimology.com/esim/oceania"
+    }
+   ]
+  },
+  {
+   "iso2": "PY",
+   "country": "Paraguay",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "3G",
+      "4G"
+     ]
+    },
+    {
+     "name": "Personal",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Tigo",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/paraguay",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "PE",
+   "country": "Peru",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Claro",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Movistar",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/peru",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    },
+    {
+     "name": "South America (6 countries)",
+     "url": "https://esimology.com/esim/south-america-6-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "PH",
+   "country": "Philippines",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Globe",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "SMART",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/philippines",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Asia (7 countries)",
+     "url": "https://esimology.com/esim/asia-7-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South East Asia",
+     "url": "https://esimology.com/esim/south-east-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "PL",
+   "country": "Poland",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Play",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Plus",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "T-Mobile",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/poland",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "PT",
+   "country": "Portugal",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "MEO",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "NOS",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/portugal",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "PR",
+   "country": "Puerto Rico",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "AT&T",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Claro",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Liberty",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/puerto-rico",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "QA",
+   "country": "Qatar",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "ooredoo",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/qatar",
+   "regional_plans": [
+    {
+     "name": "GCC Countries",
+     "url": "https://esimology.com/esim/gcc-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Gulf Region",
+     "url": "https://esimology.com/esim/gulf-region"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    },
+    {
+     "name": "Middle East (5 countries)",
+     "url": "https://esimology.com/esim/middle-east-5-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "RO",
+   "country": "Romania",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Digi.Mobil",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telekom",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/romania",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "RU",
+   "country": "Russia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Beeline",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Tele2",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/russia",
+   "regional_plans": []
+  },
+  {
+   "iso2": "RW",
+   "country": "Rwanda",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/rwanda",
+   "regional_plans": [
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "RE",
+   "country": "Réunion",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "SFR",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/reunion",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    }
+   ]
+  },
+  {
+   "iso2": "WS",
+   "country": "Samoa",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/samoa",
+   "regional_plans": [
+    {
+     "name": "Oceania",
+     "url": "https://esimology.com/esim/oceania"
+    }
+   ]
+  },
+  {
+   "iso2": "SM",
+   "country": "San Marino",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Iliad",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "TIM",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Wind",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/san-marino",
+   "regional_plans": [
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "SA",
+   "country": "Saudi Arabia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Mobily",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "STC",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Zain",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/saudi-arabia",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "GCC Countries",
+     "url": "https://esimology.com/esim/gcc-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Gulf Region",
+     "url": "https://esimology.com/esim/gulf-region"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    },
+    {
+     "name": "Middle East (5 countries)",
+     "url": "https://esimology.com/esim/middle-east-5-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "SN",
+   "country": "Senegal",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Free",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/senegal",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "RS",
+   "country": "Serbia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "mts",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Telenor",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "VIP",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/serbia",
+   "regional_plans": [
+    {
+     "name": "Balkans",
+     "url": "https://esimology.com/esim/balkans"
+    },
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "SC",
+   "country": "Seychelles",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/seychelles",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "SL",
+   "country": "Sierra Leone",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Orange",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/sierra-leone",
+   "regional_plans": []
+  },
+  {
+   "iso2": "SG",
+   "country": "Singapore",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "M1",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "SingTel",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "StarHub",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "TPG Telecom",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/singapore",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Asia (7 countries)",
+     "url": "https://esimology.com/esim/asia-7-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Singapore & Malaysia",
+     "url": "https://esimology.com/esim/singapore-and-malaysia"
+    },
+    {
+     "name": "Singapore, Malaysia & Thailand",
+     "url": "https://esimology.com/esim/singapore-malaysia-and-thailand"
+    },
+    {
+     "name": "Singapore, Malaysia, Vietnam, Thailand & Indonesia",
+     "url": "https://esimology.com/esim/singapore-malaysia-vietnam-thailand-and-indonesia"
+    }
+   ]
+  },
+  {
+   "iso2": "SK",
+   "country": "Slovakia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "O2",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telekom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/slovakia",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "SI",
+   "country": "Slovenia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "A1",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Mobitel",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telemach",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/slovenia",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Ireland & Slovenia",
+     "url": "https://esimology.com/esim/ireland-and-slovenia"
+    }
+   ]
+  },
+  {
+   "iso2": "ZA",
+   "country": "South Africa",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Cell C",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "MTN",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telkom",
+     "network_types": [
+      "3G",
+      "4G"
+     ]
+    },
+    {
+     "name": "Vodacom",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/south-africa",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "KR",
+   "country": "South Korea",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "LG Uplus",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "SKTelecom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/south-korea",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "China, Japan & South Korea",
+     "url": "https://esimology.com/esim/china-japan-and-south-korea"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Japan & South Korea",
+     "url": "https://esimology.com/esim/japan-and-south-korea"
+    }
+   ]
+  },
+  {
+   "iso2": "SS",
+   "country": "South Sudan",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "MTN",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/south-sudan",
+   "regional_plans": []
+  },
+  {
+   "iso2": "ES",
+   "country": "Spain",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Movistar",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Yoigo",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/spain",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "LK",
+   "country": "Sri Lanka",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Dialog",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Etisalat",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Hutch",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Mobitel",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/sri-lanka",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Central Asia",
+     "url": "https://esimology.com/esim/central-asia"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South Asia",
+     "url": "https://esimology.com/esim/south-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "BL",
+   "country": "St. Barthélemy",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/st-barthelemy",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "KN",
+   "country": "St. Kitts & Nevis",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/st-kitts-and-nevis",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "LC",
+   "country": "St. Lucia",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/st-lucia",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "MF",
+   "country": "St. Martin",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/st-martin",
+   "regional_plans": [
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    }
+   ]
+  },
+  {
+   "iso2": "VC",
+   "country": "St. Vincent & Grenadines",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/st-vincent-and-grenadines",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "SD",
+   "country": "Sudan",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "MTN",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Zain",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/sudan",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    }
+   ]
+  },
+  {
+   "iso2": "SR",
+   "country": "Suriname",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/suriname",
+   "regional_plans": []
+  },
+  {
+   "iso2": "SE",
+   "country": "Sweden",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "3",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Tele2",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telenor",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Telia",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/sweden",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "CH",
+   "country": "Switzerland",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Salt",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Sunrise",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Swisscom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/switzerland",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "TW",
+   "country": "Taiwan",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Chunghwa",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "FarEasTone",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Taiwan Mobile",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": null,
+   "regional_plans": [
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "TJ",
+   "country": "Tajikistan",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "MegaFon",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "ZET",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/tajikistan",
+   "regional_plans": [
+    {
+     "name": "Central Asia (4 countries)",
+     "url": "https://esimology.com/esim/central-asia-4-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "TZ",
+   "country": "Tanzania",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodacom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/tanzania",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "TH",
+   "country": "Thailand",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "AIS",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "dtac (True)",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "NT",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "TrueMove H",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/thailand",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Asia (7 countries)",
+     "url": "https://esimology.com/esim/asia-7-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Singapore, Malaysia & Thailand",
+     "url": "https://esimology.com/esim/singapore-malaysia-and-thailand"
+    },
+    {
+     "name": "Singapore, Malaysia, Vietnam, Thailand & Indonesia",
+     "url": "https://esimology.com/esim/singapore-malaysia-vietnam-thailand-and-indonesia"
+    },
+    {
+     "name": "South East Asia",
+     "url": "https://esimology.com/esim/south-east-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "TL",
+   "country": "Timor-Leste",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Telemor",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": null,
+   "regional_plans": [
+    {
+     "name": "South East Asia",
+     "url": "https://esimology.com/esim/south-east-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "TG",
+   "country": "Togo",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Moov",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/togo",
+   "regional_plans": []
+  },
+  {
+   "iso2": "TO",
+   "country": "Tonga",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/tonga",
+   "regional_plans": [
+    {
+     "name": "Oceania",
+     "url": "https://esimology.com/esim/oceania"
+    }
+   ]
+  },
+  {
+   "iso2": "TT",
+   "country": "Trinidad & Tobago",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/trinidad-and-tobago",
+   "regional_plans": []
+  },
+  {
+   "iso2": "TN",
+   "country": "Tunisia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "OOREDOO TN",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Orange",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Tunicell",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/tunisia",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    }
+   ]
+  },
+  {
+   "iso2": "TR",
+   "country": "Turkey",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Turkcell",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Türk Telekom",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/turkey",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    }
+   ]
+  },
+  {
+   "iso2": "TC",
+   "country": "Turks & Caicos Islands",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "FLOW",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/turks-and-caicos-islands",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    }
+   ]
+  },
+  {
+   "iso2": "UG",
+   "country": "Uganda",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "MTN",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/uganda",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "UA",
+   "country": "Ukraine",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Kyivstar",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "lifecell",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/ukraine",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "AE",
+   "country": "United Arab Emirates",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "du",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "e&",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/united-arab-emirates",
+   "regional_plans": [
+    {
+     "name": "GCC Countries",
+     "url": "https://esimology.com/esim/gcc-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "Gulf Region",
+     "url": "https://esimology.com/esim/gulf-region"
+    },
+    {
+     "name": "Middle East",
+     "url": "https://esimology.com/esim/middle-east"
+    },
+    {
+     "name": "Middle East & North Africa",
+     "url": "https://esimology.com/esim/middle-east-and-north-africa"
+    }
+   ]
+  },
+  {
+   "iso2": "GB",
+   "country": "United Kingdom",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "EE",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "O2",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vodafone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "VodafoneThree",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/united-kingdom",
+   "regional_plans": [
+    {
+     "name": "Australia, UK & US",
+     "url": "https://esimology.com/esim/australia-uk-and-us"
+    },
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Europe (31 countries)",
+     "url": "https://esimology.com/esim/europe-31-countries"
+    },
+    {
+     "name": "Europe (33 countries)",
+     "url": "https://esimology.com/esim/europe-33-countries"
+    },
+    {
+     "name": "Europe (34 countries)",
+     "url": "https://esimology.com/esim/europe-34-countries"
+    },
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "UK & Ireland",
+     "url": "https://esimology.com/esim/uk-and-ireland"
+    }
+   ]
+  },
+  {
+   "iso2": "US",
+   "country": "United States",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "AT&T",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "T-Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Verizon",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/united-states",
+   "regional_plans": [
+    {
+     "name": "Australia, UK & US",
+     "url": "https://esimology.com/esim/australia-uk-and-us"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "North America",
+     "url": "https://esimology.com/esim/north-america"
+    },
+    {
+     "name": "USA & Canada",
+     "url": "https://esimology.com/esim/usa-and-canada"
+    }
+   ]
+  },
+  {
+   "iso2": "UY",
+   "country": "Uruguay",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Antel",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Claro",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Movistar",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/uruguay",
+   "regional_plans": [
+    {
+     "name": "Caribbean",
+     "url": "https://esimology.com/esim/caribbean"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    },
+    {
+     "name": "South America",
+     "url": "https://esimology.com/esim/south-america"
+    },
+    {
+     "name": "South America (6 countries)",
+     "url": "https://esimology.com/esim/south-america-6-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "UZ",
+   "country": "Uzbekistan",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Beeline",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/uzbekistan",
+   "regional_plans": [
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Central Asia",
+     "url": "https://esimology.com/esim/central-asia"
+    },
+    {
+     "name": "Central Asia (4 countries)",
+     "url": "https://esimology.com/esim/central-asia-4-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "VU",
+   "country": "Vanuatu",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digicel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/vanuatu",
+   "regional_plans": [
+    {
+     "name": "Oceania",
+     "url": "https://esimology.com/esim/oceania"
+    }
+   ]
+  },
+  {
+   "iso2": "VA",
+   "country": "Vatican City",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Iliad",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "TIM",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Wind",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/vatican-city",
+   "regional_plans": [
+    {
+     "name": "Europe (35 countries)",
+     "url": "https://esimology.com/esim/europe-35-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "VE",
+   "country": "Venezuela",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Digitel",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/venezuela",
+   "regional_plans": []
+  },
+  {
+   "iso2": "VN",
+   "country": "Vietnam",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "MobiFone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "Vietnamobile",
+     "network_types": [
+      "4G"
+     ]
+    },
+    {
+     "name": "Viettel Mobile",
+     "network_types": [
+      "5G"
+     ]
+    },
+    {
+     "name": "Vinaphone",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/vietnam",
+   "regional_plans": [
+    {
+     "name": "Asia",
+     "url": "https://esimology.com/esim/asia"
+    },
+    {
+     "name": "Asia (12 countries)",
+     "url": "https://esimology.com/esim/asia-12-countries"
+    },
+    {
+     "name": "Asia (14 countries)",
+     "url": "https://esimology.com/esim/asia-14-countries"
+    },
+    {
+     "name": "Asia (19 countries)",
+     "url": "https://esimology.com/esim/asia-19-countries"
+    },
+    {
+     "name": "Asia (7 countries)",
+     "url": "https://esimology.com/esim/asia-7-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Singapore, Malaysia, Vietnam, Thailand & Indonesia",
+     "url": "https://esimology.com/esim/singapore-malaysia-vietnam-thailand-and-indonesia"
+    },
+    {
+     "name": "South East Asia",
+     "url": "https://esimology.com/esim/south-east-asia"
+    }
+   ]
+  },
+  {
+   "iso2": "YE",
+   "country": "Yemen",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "MTN",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/yemen",
+   "regional_plans": []
+  },
+  {
+   "iso2": "ZM",
+   "country": "Zambia",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Airtel",
+     "network_types": [
+      "4G",
+      "5G"
+     ]
+    },
+    {
+     "name": "MTN",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/zambia",
+   "regional_plans": [
+    {
+     "name": "Africa",
+     "url": "https://esimology.com/esim/africa"
+    },
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    },
+    {
+     "name": "Global (117 countries)",
+     "url": "https://esimology.com/esim/global-117-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "ZW",
+   "country": "Zimbabwe",
+   "best_network": "4G",
+   "operators": [
+    {
+     "name": "Econet",
+     "network_types": [
+      "4G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/zimbabwe",
+   "regional_plans": [
+    {
+     "name": "Africa (21 countries)",
+     "url": "https://esimology.com/esim/africa-21-countries"
+    }
+   ]
+  },
+  {
+   "iso2": "AX",
+   "country": "Åland Islands",
+   "best_network": "5G",
+   "operators": [
+    {
+     "name": "Ålcom",
+     "network_types": [
+      "5G"
+     ]
+    }
+   ],
+   "esim_url": "https://esimology.com/esim/aland-islands",
+   "regional_plans": [
+    {
+     "name": "Europe",
+     "url": "https://esimology.com/esim/europe"
+    },
+    {
+     "name": "Europe & Morocco",
+     "url": "https://esimology.com/esim/europe-and-morocco"
+    },
+    {
+     "name": "Global",
+     "url": "https://esimology.com/esim/global"
+    }
+   ]
+  }
+ ]
+}

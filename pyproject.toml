@@ -1,0 +1,16 @@
+[project]
+name = "esim-coverage"
+version = "1.0.0"
+description = "Travel eSIM coverage by country: mobile networks and 4G/5G, as open data."
+requires-python = ">=3.12"
+dependencies = ["jsonschema>=4.23"]
+
+[dependency-groups]
+dev = ["ruff>=0.8"]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 130
+target-version = "py312"

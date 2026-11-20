@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://behoss.github.io/esim-coverage/coverage.schema.json",
+  "title": "Travel eSIM coverage by country",
+  "description": "For each country a travel eSIM covers: the mobile networks it connects to and the network types (3G, 4G, 5G).",
+  "type": "object",
+  "required": ["name", "updated", "licence", "url", "countries"],
+  "additionalProperties": false,
+  "properties": {
+    "name": { "type": "string" },
+    "updated": { "type": "string", "format": "date", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "licence": { "const": "CC-BY-4.0" },
+    "url": { "type": "string", "format": "uri" },
+    "countries": {
+      "type": "array",
+      "minItems": 150,
+      "items": {
+        "type": "object",
+        "required": ["iso2", "country", "best_network", "operators", "esim_url", "regional_plans"],
+        "additionalProperties": false,
+        "properties": {
+          "iso2": { "type": "string", "pattern": "^[A-Z]{2}$", "description": "ISO 3166-1 alpha-2 code" },
+          "country": { "type": "string", "minLength": 2 },
+          "best_network": { "enum": ["3G", "4G", "5G"], "description": "Fastest network type on any operator" },
+          "operators": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["name", "network_types"],
+              "additionalProperties": false,
+              "properties": {
+                "name": { "type": "string", "minLength": 1 },
+                "network_types": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "enum": ["3G", "4G", "5G"] } }
+              }
+            }
+          },
+          "esim_url": { "type": ["string", "null"], "format": "uri", "description": "eSIMology page for this country's travel eSIM" },
+          "regional_plans": {
+            "type": "array",
+            "description": "Regional and global eSIMs that also cover this country",
+            "items": {
+              "type": "object",
+              "required": ["name", "url"],
+              "additionalProperties": false,
+              "properties": { "name": { "type": "string" }, "url": { "type": "string", "format": "uri" } }
+            }
+          }
+        }
+      }
+    }
+  }
+}
